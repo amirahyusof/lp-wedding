@@ -1,17 +1,14 @@
 import React from "react";
 import aboutImage01 from "../assets/deco.jpg";
-import aboutImage02 from "../assets/cake (1).jpg";
-import aboutImage03 from "../assets/photo.jpg";
+import aboutImage02 from "../assets/photo.jpg";
 
 function About(){
     return (
-        <div className="w-full bg-[#F5EEE6] py-16 px-4"  id="about">
-            <h2 className="text-2xl font-bold py-2 md:text-4xl sm:text-3xl">Crafting Timeless Memories: Our Story Behind the Lens</h2>
-            <div className="max-w-[1240px] mx-auto px-2 grid grid-cols-2 grid-rows-2" >
-            <img className="w-[250px] mx-auto my-4" src={aboutImage01} alt="/" />
-            <img className="w-[240px] mx-auto my-4" src={aboutImage02} alt="/" />
-            <img className="w-[250px] mx-auto my-4" src={aboutImage03} alt="/" />
-            <img className="w-[250px] mx-auto my-4" src={aboutImage01} alt="/" />
+        <div className="w-full bg-[#F3D7CA] py-16 px-4"  id="about">
+            <h2 className="text-2xl font-bold py-2 md:text-4xl sm:text-3xl">Crafting Timeless Memories: Your Story Behind the Lens</h2>
+            <div className="max-w-[1240px] mx-auto px-2 grid grid-cols-2 grid-rows-1" >
+            <img className="w-[400px] mx-auto my-4" src={aboutImage01} alt="/" />
+            <img className="w-[350px] mx-auto my-4" src={aboutImage02} alt="/" />
             </div>
            
 
