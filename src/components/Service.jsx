@@ -2,8 +2,8 @@ import React from "react";
 
 function Service(){
     return(
-        <div className="w-full bg-[#F3D7CA]" id="service">
-            <h2 className="text-3xl text-bold uppercase text-center p-8">Packages</h2>
+        <div className="w-full bg-[#F3D7CA] py-16" id="service">
+            <h2 className="text-3xl text-bold uppercase text-center">Packages</h2>
             <h2 className="text-xl text-center my-6">We always adapt our services to you</h2>
 
             <div className="mx-auto grid md:grid-cols-3 gap-6">

@@ -2,7 +2,7 @@ import React from "react";
 
 function Booking(){
     return(
-        <div>
+        <div className="w-[1240px] bg-white ">
             <div>
                 <h2>Create a beautiful memento of your dream wedding</h2>
                 <p>Turning real happiness into pictures with us</p>

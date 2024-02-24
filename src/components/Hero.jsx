@@ -1,8 +1,7 @@
 import React from "react";
-import background from "../assets/hero-section.jpg";
+
 
 function Hero(){
-    const bgImg = {background}
     return(
         <div className="bg-cover bg-center text-white" id="home">
             <div className="max-x-[800px] mt-[-96px] w-full h-screen text-center mx-auto flex flex-col justify-center">
