@@ -8,11 +8,11 @@ function About(){
             <h2 className="text-2xl font-bold py-2 md:text-4xl sm:text-3xl">Crafting Timeless Memories: Your Story Behind the Lens</h2>
             <div className="max-w-[1240px] mx-auto px-2 grid grid-cols-2 grid-rows-1" >
             <img className="w-[400px] mx-auto my-4" src={aboutImage01} alt="/" />
-            <img className="w-[350px] mx-auto my-4" src={aboutImage02} alt="/" />
+            <img className="w-[350px] lg:[550px] mx-auto my-4" src={aboutImage02} alt="/" />
             </div>
            
 
-            <div  className="max-w-[1240px] mx-auto text-justify grid md:grid-cols-3">
+            <div  className="max-w-[1240px] mx-auto text-justify text-medium grid md:grid-cols-3">
                 <div className="m-4 px-2">
                     <h3 className="text-[#FF407D] text-bold">Unlocking the Essence of Your Love Story</h3>
                     <p>Embark on a journey where every glance, every touch, and every smile narrates a story of love eternal. 
