@@ -15,7 +15,7 @@ function Booking(){
                       <input className="p-3 w-full rounded-md border-solid border-2" type="date" placeholder="Wedding Date" />
                       <input className="p-3 w-full rounded-md border-solid border-2" type="text" placeholder="Wedding Place" />
 
-                      <button className="w-[150px] bg-[#E6A4B4] rounded-md font-medium mx-auto py-3 border-2 shadow-md">Book</button>
+                      <button className="w-[150px] bg-[#E6A4B4] rounded-md font-medium mx-auto py-3 border-2 shadow-md hover:bg-[#e3bcc3]">Book</button>
                     </div>
 
                     <img className="mx-auto lg:w-[500px] rounded-xl" src={bookImage}  alt="/" />

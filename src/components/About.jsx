@@ -6,9 +6,9 @@ function About(){
     return (
         <div className="w-full bg-[#F3D7CA] py-16 px-4"  id="about">
             <h2 className="text-2xl font-bold py-2 md:text-4xl sm:text-3xl">Crafting Timeless Memories: Your Story Behind the Lens</h2>
-            <div className="max-w-[1240px] mx-auto px-2 grid grid-cols-2 grid-rows-1" >
-            <img className="w-[400px] mx-auto my-4" src={aboutImage01} alt="/" />
-            <img className="w-[350px] lg:[550px] mx-auto my-4" src={aboutImage02} alt="/" />
+            <div className="max-w-[1240px] mx-auto px-2 grid grid-cols-2 grid-rows-1 gap-4" >
+            <img className="w-[400px] mx-auto my-4 rounded-3xl" src={aboutImage01} alt="/" />
+            <img className="w-[350px] lg:w-[450px] lg:h-[270px] lg:ml-[20px] mx-auto my-4 rounded-3xl" src={aboutImage02} alt="/" />
             </div>
            
 
