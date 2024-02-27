@@ -9,7 +9,7 @@ import Collection06 from '../assets/collection (6).jpg';
 
 function Collections(){
     return(
-        <div className="w-full bg-[#E6A4B4] py-6" id="collection" >
+        <div className="w-full bg-[#E6A4B4] py-10" id="collection" >
             <h2 className="text-3xl text-bold text-white uppercase text-center my-8">Collections</h2>
             <div className="max-w-[1240px] mx-auto px-2 grid grid-row-3 gap-6" >
                 <div className="grid grid-cols-2 gap-4">

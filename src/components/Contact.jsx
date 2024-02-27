@@ -3,7 +3,7 @@ import contactImage from '../assets/contact.jpg';
 
 function Contact(){
     return(
-        <div className="w-full text-white" id="contact" >
+        <div className="w-full text-white py-10" id="contact" >
             <div className="flex flex-col lg:flex-row m-auto p-10">
                 <img className="w-[380px] lg:w-[500px] mx-auto rounded-3xl" src={contactImage} alt="image" />
 
