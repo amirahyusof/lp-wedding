@@ -14,11 +14,11 @@ function Collections(){
             <div className="max-w-[1240px] mx-auto px-2 grid grid-row-3 gap-6" >
                 <div className="grid grid-cols-2 gap-4">
                 <img src={Collection} alt="/" />
-                <img className="h-[125px] md:h-[190px] w-full lg:h-full" src={Collection01} alt="/" />
+                <img className="h-[90px] sm:h-[160px] md:h-[190px] w-full lg:h-full" src={Collection01} alt="/" />
                 </div>
 
                 <div className="grid grid-cols-3 gap-4">
-                <img className="h-[225px] md:h-[350px] lg:h-full" src={Collection02} alt="/" />
+                <img className="h-[165px] sm:h-[295px] md:h-[350px] lg:h-full" src={Collection02} alt="/" />
                 <img src={Collection03} alt="/" />
                 <img src={Collection04} alt="/" />
                 </div>

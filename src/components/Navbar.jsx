@@ -10,9 +10,9 @@ const handleNav=() => {
 }
 
     return(
-        <div className="fixed top-0 left-0 w-full bg-[#FFF8E3] z-50 transition-all duration-1000 h-24 sm:h-20">
+        <div className="fixed top-0 left-0 w-full bg-[#FFF8E3] z-50 transition-all duration-1000 h-20">
             <div className="flex justify-between items-center text-[#E6A4B4] mx-auto px-5 mt-4">
-                <h2 className="w-full font-bold text-2xl p-2 sm:mb-14 md:mb-0">EleganceStudio</h2>
+                <h2 className="w-full font-bold text-2xl p-2 mb-14 md:mb-0">EleganceStudio</h2>
                    <ul className="hidden md:flex">
                         <li className="p-2 text-xl hover:underline"> 
                             <a href="#home">Home</a>

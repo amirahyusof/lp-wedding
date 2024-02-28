@@ -4,7 +4,7 @@ import bookImage from "../assets/bookImg.jpg"
 function Booking(){
     return(
         <div className="w-full py-12 px-4 bg-white">
-            <div className="w-full h-[700px] md:h-[400px] ">
+            <div className="w-full h-[650px] md:h-[400px] ">
                 <h2 className="text-bold text-xl md:text-3xl sm:text-2xl sm:py-2">Create a beautiful memento of your dream wedding</h2>
                 <p className="px-2" >Turning real happiness into pictures with us</p>
 
