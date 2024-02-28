@@ -4,11 +4,11 @@ import bookImage from "../assets/bookImg.jpg"
 function Booking(){
     return(
         <div className="w-full py-12 px-4 bg-white">
-            <div className="w-full h-[400px] ">
-                <h2 className="text-bold text-xl md:text-3xl sm:text-2xl sm: py-2">Create a beautiful memento of your dream wedding</h2>
+            <div className="w-full h-[700px] md:h-[400px] ">
+                <h2 className="text-bold text-xl md:text-3xl sm:text-2xl sm:py-2">Create a beautiful memento of your dream wedding</h2>
                 <p className="px-2" >Turning real happiness into pictures with us</p>
 
-                <div className="grid grid-cols-2 gap-4">
+                <div className="md:grid md:grid-cols-2 md:gap-4">
                     <div className="px-2 py-6 flex flex-col justify-between w-full gap-2">
                       <input className="p-3 lg:w-full rounded-md border-solid border-2" type="text" placeholder="Bride Name" />
                       <input className="p-3 w-full rounded-md border-solid border-2" type="text" placeholder="Groom Name" />
