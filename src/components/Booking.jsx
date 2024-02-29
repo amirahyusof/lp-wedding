@@ -18,7 +18,7 @@ function Booking(){
                       <button className="w-[150px] bg-[#E6A4B4] rounded-md font-medium mx-auto py-3 border-2 shadow-md hover:bg-[#e3bcc3]">Book</button>
                     </div>
 
-                    <img className="mx-auto lg:w-[500px] rounded-xl" src={bookImage}  alt="/" />
+                    <img className="mx-auto sm:w-[380px] lg:w-[500px] rounded-xl" src={bookImage}  alt="/" />
 
 
                   
