@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lp-wedding/static/css/main.4d570df1.css",
-    "main.js": "/lp-wedding/static/js/main.cc5a3b16.js",
+    "main.css": "/lp-wedding/static/css/main.733d1e8a.css",
+    "main.js": "/lp-wedding/static/js/main.55c7ba28.js",
     "static/js/453.fb961345.chunk.js": "/lp-wedding/static/js/453.fb961345.chunk.js",
     "static/media/photo.jpg": "/lp-wedding/static/media/photo.d0533fa6b62b2882ee3b.jpg",
     "static/media/collection (3).jpg": "/lp-wedding/static/media/collection (3).0f918c1b004048283efd.jpg",
@@ -16,12 +16,12 @@
     "static/media/bookImg.jpg": "/lp-wedding/static/media/bookImg.ecf915f2ed1923ae1994.jpg",
     "static/media/hero.jpg": "/lp-wedding/static/media/hero.36a30b2dd6e4db170307.jpg",
     "index.html": "/lp-wedding/index.html",
-    "main.4d570df1.css.map": "/lp-wedding/static/css/main.4d570df1.css.map",
-    "main.cc5a3b16.js.map": "/lp-wedding/static/js/main.cc5a3b16.js.map",
+    "main.733d1e8a.css.map": "/lp-wedding/static/css/main.733d1e8a.css.map",
+    "main.55c7ba28.js.map": "/lp-wedding/static/js/main.55c7ba28.js.map",
     "453.fb961345.chunk.js.map": "/lp-wedding/static/js/453.fb961345.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d570df1.css",
-    "static/js/main.cc5a3b16.js"
+    "static/css/main.733d1e8a.css",
+    "static/js/main.55c7ba28.js"
   ]
 }
