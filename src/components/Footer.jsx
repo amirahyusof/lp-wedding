@@ -22,11 +22,11 @@ function Footer(){
                 <div className="flex flex-col ml-[20px] mt-2 lg:ml-[20%]">
                     <div className="text-center mt-[10px]">
                         <MdOutlineEmail size={30} style={{color: '#E6A4B4'}} />
-                        <p className="mt-[-25px] ml-[-15%] sm:ml-[-50%] md:ml-[-20%] lg:ml-[-50%]">timelessElegance@studio.com</p>
+                        <p className="mt-[-25px] ml-[-15%] sm:ml-[-50%] md:ml-[-5%] lg:ml-[-50%]">timelessElegance@studio.com</p>
                     </div>
                     <div className="text-center my-4">
                         <FaPhoneAlt size={25} style={{color: '#E6A4B4'}} />
-                        <p className="mt-[-20px] ml-[-50%] sm:ml-[-68%] md:ml-[-50%] lg:ml-[-70%]">+604-1234567</p>
+                        <p className="mt-[-20px] ml-[-50%] sm:ml-[-68%] md:ml-[-40%] lg:ml-[-70%]">+604-1234567</p>
                     </div>
                 </div>
 
