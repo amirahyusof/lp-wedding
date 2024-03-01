@@ -14,7 +14,7 @@ function Collections(){
             <div className="max-w-[1240px] mx-auto px-2 grid grid-row-3 gap-6" >
                 <div className="grid grid-cols-2 gap-4">
                 <img src={Collection} alt="/" />
-                <img className="h-[90px] sm:h-[180px] md:h-[190px] lg:h-full w-full" src={Collection01} alt="/" />
+                <img className="h-[90px] sm:h-[180px] md:h-[190px] lg:h-[320px] w-full" src={Collection01} alt="/" />
                 </div>
 
                 <div className="grid grid-cols-3 gap-4">

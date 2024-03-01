@@ -8,7 +8,7 @@ function Service(){
 
             <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
 
-                <div className="w-[300px] md:w-[250px] lg:w-full h-fulllg:w-full shadow-2xl bg-[#F5EEE6] flex flex-col p-4 m-auto rounded-2xl  hover:scale-105 duration-300">
+                <div className="w-[300px] md:w-[250px] lg:w-full h-full shadow-2xl bg-[#F5EEE6] flex flex-col p-4 m-auto rounded-2xl  hover:scale-105 duration-300">
                     <h2 className="text-center font-extrabold text-2xl py-8">Silver</h2>
                     <div className="text-center font-medium">
                         <li className="py-2 mx-8">Coverage: Up to 6 hours</li>
